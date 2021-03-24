@@ -1,0 +1,6 @@
+E:\Study\KPI_4\.NET\Labs\Laba_2\vehicles\bin\Debug\carriers.dll
+E:\Study\KPI_4\.NET\Labs\Laba_2\vehicles\bin\Debug\carriers.pdb
+E:\Study\KPI_4\.NET\Labs\Laba_2\vehicles\obj\Debug\carriers.csproj.CoreCompileInputs.cache
+E:\Study\KPI_4\.NET\Labs\Laba_2\vehicles\obj\Debug\carriers.dll
+E:\Study\KPI_4\.NET\Labs\Laba_2\vehicles\obj\Debug\carriers.pdb
+E:\Study\KPI_4\.NET\Labs\Laba_2\vehicles\obj\Debug\carriers.csprojAssemblyReference.cache
