@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace carriers
 {
-    static internal class MatrixOfDistance
+    static public class MatrixOfDistance
     {
         static internal List<List<double>> matrixOfContiguity = new List<List<double>> { };
         static internal List<List<double>> matrixOfMinimumDistance = new List<List<double>> { };

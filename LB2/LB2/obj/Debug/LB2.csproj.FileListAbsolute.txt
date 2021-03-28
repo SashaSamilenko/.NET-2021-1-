@@ -1,0 +1,10 @@
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LB2\LB2\bin\Debug\LB2.exe.config
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LB2\LB2\bin\Debug\LB2.exe
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LB2\LB2\bin\Debug\LB2.pdb
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LB2\LB2\bin\Debug\PassengerCarriers.dll
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LB2\LB2\bin\Debug\PassengerCarriers.pdb
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LB2\LB2\obj\Debug\LB2.csprojAssemblyReference.cache
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LB2\LB2\obj\Debug\LB2.csproj.CoreCompileInputs.cache
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LB2\LB2\obj\Debug\LB2.csproj.CopyComplete
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LB2\LB2\obj\Debug\LB2.exe
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LB2\LB2\obj\Debug\LB2.pdb

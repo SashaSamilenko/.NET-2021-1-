@@ -4,3 +4,5 @@ E:\Study\KPI_4\.NET\Labs\Laba_2\vehicles\obj\Debug\carriers.csproj.CoreCompileIn
 E:\Study\KPI_4\.NET\Labs\Laba_2\vehicles\obj\Debug\carriers.dll
 E:\Study\KPI_4\.NET\Labs\Laba_2\vehicles\obj\Debug\carriers.pdb
 E:\Study\KPI_4\.NET\Labs\Laba_2\vehicles\obj\Debug\carriers.csprojAssemblyReference.cache
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\Laba_2\vehicles\obj\Debug\carriers.csprojAssemblyReference.cache
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\Laba_2\vehicles\obj\Debug\carriers.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LB2\PassengerCarriers\bin\Debug\PassengerCarriers.dll
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LB2\PassengerCarriers\bin\Debug\PassengerCarriers.pdb
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LB2\PassengerCarriers\obj\Debug\PassengerCarriers.csproj.CoreCompileInputs.cache
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LB2\PassengerCarriers\obj\Debug\PassengerCarriers.dll
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LB2\PassengerCarriers\obj\Debug\PassengerCarriers.pdb
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LB2\PassengerCarriers\obj\Debug\PassengerCarriers.csprojAssemblyReference.cache
