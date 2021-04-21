@@ -6,22 +6,23 @@ using System.Threading.Tasks;
 
 namespace PassengerCarriers
 {
-    class Plane: PassengerCarrier
+    public class SpaceCraft:PassengerCarrier
     {
-        public Plane()
+        public SpaceCraft()
         {
             PricePrioriti = pricePrioriti.high;
             TimePrioriti = timePrioriti.quickly;
+            ComfortLevel = comfortLevel.middle;
         }
         public override string Info()
         {
-            return "This type of carriers is Plane!";
+            return "This type of carriers is spacecraft!";
         }
         public override string GetTitle()
         {
             if (Title == null)
             {
-                Title = "Plane";
+                Title = "Spacecraft";
             }
             return Title;
         }

@@ -12,6 +12,7 @@ namespace PassengerCarriers
         {
             PricePrioriti = pricePrioriti.middle;
             TimePrioriti = timePrioriti.normally;
+            ComfortLevel = comfortLevel.low;
         }
         public override string Info()
         {

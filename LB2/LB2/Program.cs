@@ -11,11 +11,11 @@ namespace LB2
     {
         static void Main(string[] args)
         {
-            List<PassengerCarrier> myCarriers = SelectionCarrier.Select(typeOfTrip.inCity, pricePrioriti.high, timePrioriti.slowly, 100, 100, 100);
-            foreach (PassengerCarrier carrier in myCarriers)
+            PassengerCarrier myCarrier = SelectionCarrier.Select(typeOfTrip.beetwenCities, pricePrioriti.middle, timePrioriti.normally);
+            if (myCarrier != null)
             {
-                Console.WriteLine(carrier.Info());
-                Console.WriteLine($"My carrier is {carrier.GetTitle()}");
+                Console.WriteLine(myCarrier.Info());
+                Console.WriteLine($"My carrier is {myCarrier.GetTitle()}");
             }
             Console.ReadKey();
         }

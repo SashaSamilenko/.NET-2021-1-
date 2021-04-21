@@ -11,7 +11,8 @@ namespace PassengerCarriers
         inCity,
         beetwenCities,
         beetwenCountries,
-        beetwenContinents
+        beetwenContinents,
+        beetwenPlanets
     }
     public enum pricePrioriti
     {
@@ -25,12 +26,16 @@ namespace PassengerCarriers
         normally,
         slowly
     }
+    internal enum comfortLevel
+    {
+        low,
+        middle,
+        high
+    }
     internal class Trip
     {
-        //internal double Distance { get; set; }
         internal typeOfTrip TypeTrip { get; set; }
         internal pricePrioriti PrioritiOfPrice{get;set;}
         internal timePrioriti TimeP { get; set; }
-        internal double VolumeOfBaggage { get; set; }
     }
 }

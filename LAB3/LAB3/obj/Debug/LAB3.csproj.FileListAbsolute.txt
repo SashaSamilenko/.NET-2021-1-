@@ -1,0 +1,10 @@
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB3\LAB3\bin\Debug\LAB3.exe.config
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB3\LAB3\bin\Debug\LAB3.exe
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB3\LAB3\bin\Debug\LAB3.pdb
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB3\LAB3\obj\Debug\LAB3.csprojAssemblyReference.cache
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB3\LAB3\obj\Debug\LAB3.csproj.CoreCompileInputs.cache
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB3\LAB3\obj\Debug\LAB3.exe
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB3\LAB3\obj\Debug\LAB3.pdb
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB3\LAB3\bin\Debug\GameZeroChrest.dll
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB3\LAB3\bin\Debug\GameZeroChrest.pdb
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB3\LAB3\obj\Debug\LAB3.csproj.CopyComplete

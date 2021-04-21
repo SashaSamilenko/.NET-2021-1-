@@ -11,6 +11,7 @@ namespace PassengerCarriers
         protected string Title;
         internal pricePrioriti PricePrioriti { get; set; }
         internal timePrioriti TimePrioriti { get; set; }
+        internal comfortLevel ComfortLevel { get; set; }
         public virtual string Info() { return null; }
         public virtual string GetTitle()
         { 

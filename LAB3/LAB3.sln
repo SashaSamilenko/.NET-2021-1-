@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB3", "LAB3\LAB3.csproj", "{2FC08E2A-BB89-409B-A589-83613D4F421E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameZeroChrest", "GameZeroChrest\GameZeroChrest.csproj", "{31B98684-0428-4183-AC78-703B0A88CEF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FC08E2A-BB89-409B-A589-83613D4F421E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC08E2A-BB89-409B-A589-83613D4F421E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC08E2A-BB89-409B-A589-83613D4F421E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC08E2A-BB89-409B-A589-83613D4F421E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B98684-0428-4183-AC78-703B0A88CEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B98684-0428-4183-AC78-703B0A88CEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B98684-0428-4183-AC78-703B0A88CEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B98684-0428-4183-AC78-703B0A88CEF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BB27139-1400-41C5-9213-AD7BBB0A6083}
+	EndGlobalSection
+EndGlobal

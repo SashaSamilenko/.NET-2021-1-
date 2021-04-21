@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PassengerCarriers.Trip" Collapsed="true">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Trip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassengerCarriers.SelectionCarrier">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAABAAAAQAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>SelectionCarrier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassengerCarriers.CarrierMethods" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CarrierMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassengerCarriers.Train" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Carriers\Train.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassengerCarriers.PassengerCarrier" Collapsed="true">
+    <Position X="10.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAQAAAAEAAAAAAAAAAAAAAAIAAAAAAAEAAAEA=</HashCode>
+      <FileName>Carriers\PassengerCarrier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassengerCarriers.Bus" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Carriers\Bus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassengerCarriers.IntrecityBus" Collapsed="true">
+    <Position X="11" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Carriers\IntrecityCarriers\IntrecityBus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassengerCarriers.IntercityTrain" Collapsed="true">
+    <Position X="7" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Carriers\IntrecityCarriers\IntercityTrain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassengerCarriers.IntracityBus" Collapsed="true">
+    <Position X="9" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Carriers\IntracityCarriers\IntracityBus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassengerCarriers.Taxi" Collapsed="true">
+    <Position X="15.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Carriers\IntracityCarriers\Taxi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassengerCarriers.SpaceCraft" Collapsed="true">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Carriers\InterplanetaryCarriers\SpaceCraft.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassengerCarriers.IntercountryBus" Collapsed="true">
+    <Position X="13" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Carriers\IntercountryCarriers\IntercountryBus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassengerCarriers.IntercountryTrain" Collapsed="true">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Carriers\IntercountryCarriers\IntercountryTrain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassengerCarriers.Plane" Collapsed="true">
+    <Position X="18" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Carriers\From cities to continets\Plane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PassengerCarriers.Selector" Collapsed="true">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAABCAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Selector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="PassengerCarriers.typeOfTrip" Collapsed="true">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAEAAEAAAAAAACAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Trip.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PassengerCarriers.pricePrioriti" Collapsed="true">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAIAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Trip.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PassengerCarriers.timePrioriti" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Trip.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PassengerCarriers.comfortLevel" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAIAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Trip.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
