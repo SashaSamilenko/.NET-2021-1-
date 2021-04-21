@@ -32,20 +32,20 @@ namespace GameZeroChrest
         public bool AddPoint(int x, int y)
         {
             playerSymbol player = currentPlayer;
-            if (x < 3 && y < 3)
+            if (x>0 && x < 4 && y < 4 && y>0)
             {
-                if (gameField.field[x, y] == null)
+                if (gameField.field[x-1, y-1] == null)
                 {
                     X.Add(x);
                     Y.Add(y);
                     if (currentPlayer==playerSymbol.playerA)
                     {
-                        gameField.field[x, y] = "X";
+                        gameField.field[x-1, y-1] = "X";
                         currentPlayer = playerSymbol.playerB;
                     }
                     else 
                     {
-                        gameField.field[x, y] = "0";
+                        gameField.field[x-1, y-1] = "0";
                         currentPlayer = playerSymbol.playerA;
                     }
                 }
@@ -60,7 +60,7 @@ namespace GameZeroChrest
         {
             get
             {
-                if (x < 3 && y < 3)
+                if (x>=0 && x < 3 && y < 3 && y >= 0)
                     return gameField.field[x, y];
                 else
                 {

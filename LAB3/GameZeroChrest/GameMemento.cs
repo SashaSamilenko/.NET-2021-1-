@@ -23,7 +23,6 @@ namespace GameZeroChrest
                     gameField.field[i, j] = game.gameField.field[i, j];
                 }
             }
-            //gameField = game.gameField;
             currentPlayer = game.currentPlayer;
             this.X = game.X;
             this.Y = game.Y;

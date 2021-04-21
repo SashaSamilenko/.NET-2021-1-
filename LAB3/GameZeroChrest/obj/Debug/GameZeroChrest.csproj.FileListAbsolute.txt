@@ -3,3 +3,4 @@ E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB3\GameZeroChrest\bin\Debug\GameZeroChre
 E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB3\GameZeroChrest\obj\Debug\GameZeroChrest.csproj.CoreCompileInputs.cache
 E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB3\GameZeroChrest\obj\Debug\GameZeroChrest.dll
 E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB3\GameZeroChrest\obj\Debug\GameZeroChrest.pdb
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB3\GameZeroChrest\obj\Debug\GameZeroChrest.csprojAssemblyReference.cache
