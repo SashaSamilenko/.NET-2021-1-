@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GameZeroChrest
 {
-    public class GameMemento
+    internal class GameMemento
     {
         internal Field gameField;
         internal playerSymbol currentPlayer;
@@ -24,8 +24,13 @@ namespace GameZeroChrest
                 }
             }
             currentPlayer = game.currentPlayer;
-            this.X = game.X;
-            this.Y = game.Y;
+            X = new List<int>();
+            Y = new List<int>();
+            for (int i = 0; i < game.X.Count; i++)
+            {
+                this.X.Add(game.X[i]);
+                this.Y.Add(game.Y[i]);
+            }
         }
     }
 }

@@ -6,24 +6,34 @@ using System.Threading.Tasks;
 
 namespace GameZeroChrest
 {
-    public class Saver
+    internal class Saver
     {
         private List<GameMemento> mementos;
-        public Saver()
+        internal Saver()
         {
             mementos = new List<GameMemento>();
         }
-        public void SetMemento(GameMemento memento)
+        internal void SetMemento(GameMemento memento)
         {
-            if(mementos.Count==2)
+            if (mementos.Count > 0)
             {
-                mementos.RemoveAt(0);
+                if (mementos[mementos.Count - 1] != memento)
+                {
+                    mementos.Add(memento);
+                }
             }
-            mementos.Add(memento);
+            else
+            {
+                mementos.Add(memento);
+            }
         }
-        public GameMemento GetLastMemento()
+        internal GameMemento GetLastMemento()
         {
-            return mementos[0];
+            if (mementos.Count > 0)
+            {
+                mementos.RemoveAt(mementos.Count - 1);
+            }
+            return mementos[mementos.Count - 1];
         }
     }
 }
