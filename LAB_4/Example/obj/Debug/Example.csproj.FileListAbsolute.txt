@@ -1,6 +1,0 @@
-E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB_4\Example\bin\Debug\Example.exe.config
-E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB_4\Example\bin\Debug\Example.exe
-E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB_4\Example\bin\Debug\Example.pdb
-E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB_4\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
-E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB_4\Example\obj\Debug\Example.exe
-E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB_4\Example\obj\Debug\Example.pdb
