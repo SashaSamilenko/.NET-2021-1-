@@ -1,0 +1,10 @@
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB_4\LAB_4\bin\Debug\LAB_4.exe.config
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB_4\LAB_4\bin\Debug\LAB_4.exe
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB_4\LAB_4\bin\Debug\LAB_4.pdb
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB_4\LAB_4\obj\Debug\LAB_4.csprojAssemblyReference.cache
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB_4\LAB_4\obj\Debug\LAB_4.csproj.CoreCompileInputs.cache
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB_4\LAB_4\obj\Debug\LAB_4.exe
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB_4\LAB_4\obj\Debug\LAB_4.pdb
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB_4\LAB_4\bin\Debug\StructureOfActors.dll
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB_4\LAB_4\bin\Debug\StructureOfActors.pdb
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB_4\LAB_4\obj\Debug\LAB_4.csproj.CopyComplete

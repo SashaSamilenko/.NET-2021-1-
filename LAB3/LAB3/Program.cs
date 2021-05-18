@@ -31,7 +31,7 @@ namespace LAB3
             currentGame.continueGame(3, 1, playerSymbol.playerB);*/
 
             //A draw!
-            currentGame.startGame(1, 1, playerSymbol.playerA);
+            /*currentGame.startGame(1, 1, playerSymbol.playerA);
             currentGame.continueGame(2, 2, playerSymbol.playerB);
             currentGame.continueGame(3, 3, playerSymbol.playerA);
             currentGame.continueGame(2, 3, playerSymbol.playerB);
@@ -39,7 +39,7 @@ namespace LAB3
             currentGame.continueGame(3, 1, playerSymbol.playerB);
             currentGame.continueGame(2, 1, playerSymbol.playerA);
             currentGame.continueGame(1, 2, playerSymbol.playerB);
-            currentGame.continueGame(3, 2, playerSymbol.playerA);
+            currentGame.continueGame(3, 2, playerSymbol.playerA);*/
 
             //The game with two returnings
             /*currentGame.startGame(1, 1, playerSymbol.playerA);
@@ -48,12 +48,12 @@ namespace LAB3
             currentGame.GoBack();*/
 
             //The game with three returnings
-            /*currentGame.startGame(1, 1, playerSymbol.playerA);
+            currentGame.startGame(1, 1, playerSymbol.playerA);
             currentGame.continueGame(2, 2, playerSymbol.playerB);
             currentGame.continueGame(3, 3, playerSymbol.playerA);
             currentGame.GoBack();
             currentGame.GoBack();
-            currentGame.GoBack();*/
+            currentGame.GoBack();
 
             //The game with returning in the starting
             /*currentGame.startGame(1, 1, playerSymbol.playerA);

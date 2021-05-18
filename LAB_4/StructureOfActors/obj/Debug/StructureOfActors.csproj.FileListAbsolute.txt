@@ -1,0 +1,5 @@
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB_4\StructureOfActors\bin\Debug\StructureOfActors.dll
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB_4\StructureOfActors\bin\Debug\StructureOfActors.pdb
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB_4\StructureOfActors\obj\Debug\StructureOfActors.csproj.CoreCompileInputs.cache
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB_4\StructureOfActors\obj\Debug\StructureOfActors.dll
+E:\Study\KPI_4\.NET\Labs\.NET-2021-1-\LAB_4\StructureOfActors\obj\Debug\StructureOfActors.pdb
